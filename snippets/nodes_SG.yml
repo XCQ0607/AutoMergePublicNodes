@@ -73,7 +73,7 @@ proxies:
   servername: sg04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 26808342-aca3-412e-9253-d23cfc6efe9b
+  uuid: d3c2e43a-0398-4f46-9fc3-7fd5907714e4
 - alterId: 0
   cipher: auto
   name: 14|【BGP】新加坡 05 | 1x SG
@@ -83,7 +83,7 @@ proxies:
   servername: sg05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 26808342-aca3-412e-9253-d23cfc6efe9b
+  uuid: d3c2e43a-0398-4f46-9fc3-7fd5907714e4
 - alterId: 0
   cipher: auto
   name: 14|【BGP】新加坡 06 | 1x SG
@@ -93,7 +93,7 @@ proxies:
   servername: sg06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 26808342-aca3-412e-9253-d23cfc6efe9b
+  uuid: d3c2e43a-0398-4f46-9fc3-7fd5907714e4
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 15|🇸🇬 狮城特殊|@ripaojiedian
